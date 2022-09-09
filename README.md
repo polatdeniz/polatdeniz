@@ -55,7 +55,11 @@ I am currently a second year Computer Engineering student and I am trying to be 
 
 You can reach me on these platforms. <g-emoji class="g-emoji" alias="point_down" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f447.png">👇</g-emoji> <br>
 <blockquote>
-<p dir="auto"><a href="https://www.linkedin.com/in/denizpolat1/" rel="nofollow"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> <a href="mailto:denizpolat212@gmail.com" title="Send me an email!"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> <a href="https://app.patika.dev/denizpolattt" rel="nofollow"><img src="https://img.shields.io/badge/Patika.dev-FABE55?style=for-the-badge&logo=&logoColor=white"></p>
+<p dir="auto">
+<a href="https://www.linkedin.com/in/denizpolat1/" rel="nofollow"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> 
+<a href="mailto:denizpolat212@gmail.com" title="Send me an email!"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> 
+<a href="https://app.patika.dev/denizpolattt" rel="nofollow"><img src="https://img.shields.io/badge/Patika.dev-FABE55?style=for-the-badge&logo=&logoColor=white"></p>
+<a href="https://www.hackerrank.com/denizpolat212" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/160_Hackerrank-512.png" alt="Eralpozcan" height="30" width="30" /></a>  
 </blockquote>
 
 <br>
